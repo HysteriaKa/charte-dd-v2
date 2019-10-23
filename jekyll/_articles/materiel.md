@@ -8,6 +8,6 @@ layout: post
 * Faire une campagne de nettoyage dans un lieu déterminé.
 * Favoriser les équipements et produits réutilisables.
 * Privilégier l'achat de produits, recyclables, faits à partir de matériaux recyclés et bio ainsi que gérer les déchets, tri sélectif etc
-* *Privilégier* les énergies **renouvelables** plutôt que fossiles.*
+* *Privilégier* les énergies **renouvelables** plutôt que fossiles.
 
 ![Alt photo de poubelle](/assets/ampoule.jpg)
