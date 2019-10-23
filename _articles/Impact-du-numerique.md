@@ -14,4 +14,4 @@ Selon le rapport [Cliking Clean](http://www.clickclean.org/downloads/ClickClean2
 >[Comment réduire l'empreinte environnementale du web](https://www.greenit.fr/2015/06/04/comment-reduire-l-empreinte-environnementale-du-web/) 
 Source: greenIT.fr
 
-![Alt photo de poubelle](/assets/effetdeserre.jpg)
+![Alt photo de poubelle]({{ "/assets/effetdeserre.jpg" | relative_url }})
